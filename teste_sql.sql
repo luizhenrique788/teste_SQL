@@ -1,0 +1,10 @@
+create database ecomerce78;
+create database faculdadeflamingo;
+create database lojadaesquina;
+create database teste;
+show databases;
+use ecomerce;
+drop database teste;
+create database usuario;
+use ecomerce;
+create table usuario;
